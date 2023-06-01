@@ -1,3 +1,6 @@
+
+PROMPT: json con preguntas y posibles respuestas de programacion
+
 {
     "preguntas": [
       {
