@@ -1,0 +1,60 @@
+{
+    "group_name":"Mind Units",
+    "description":"Grupo de futuros programadores backend de java",
+    "members":[
+        {
+            "name":"Gaspar",
+            "last_name":"Suarez",
+            "discord":"gaspi#4272",
+            "country":"Argentina"
+        },
+        {
+            "name":"Ezequiel",
+            "last_name":"Berretta",
+            "discord":"ezemat#0450",
+            "country":"Argentina"
+        },
+        {
+            "name":"Esteban",
+            "last_name":"Martinez",
+            "discord":"esteban#5051",
+            "country":"Argentina"
+        },
+        {
+            "name":"Juliana",
+            "last_name":"Velandia",
+            "discord":"KatherineV#1169",
+            "country":"Colombia"
+        },
+        {
+            "name":"Jader",
+            "last_name":"Madariaga",
+            "discord":"Jader#0789",
+            "country":"Colombia"
+        },
+        {
+            "name":"Paula",
+            "last_name":"Acosta",
+            "discord":"paulaacosta604#2624",
+            "country":"Colombia"
+        },
+        {
+            "name":"Sharon",
+            "last_name":"Vieira",
+            "discord":"SharonVieira#3663",
+            "country":"Colombia"
+        },
+          {
+            "name":"Lucas",
+            "last_name":"Ariel Rotta",
+            "discord":"LucasArielRotta#9223",
+            "country":"Argentina"
+        },
+        {
+            "name":"Diana",
+            "last_name":"Carhuamanta",
+            "discord":"Artemisa#5099",
+            "country":"Perú"
+        }   
+    ]
+}
