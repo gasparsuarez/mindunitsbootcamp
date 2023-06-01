@@ -1,0 +1,48 @@
+**Ejercicio 3** 
+
+{
+  "trivia": [
+    {
+      "pregunta": "¿Cuál es el club grande que mas descendió de Argentina?",
+      "respuestas": [
+        "River Plate",
+        "Boca Juniors",
+        "Independiente",
+        "Racing Club",
+        "San lorenzo"
+      ],
+      "respuesta": 5
+    },
+    {
+      "pregunta": "¿Cual es el estadio con mas capacidad?",
+      "respuestas": [
+        "Estadio Monumental",
+        "Estadio Mario Alberto Kempes",
+        "La Bombonera",
+        "Estadio Libertadores de América"
+      ],
+      "respuesta": 1
+    },
+    {
+      "pregunta": "¿Cuántas Copas america gano la selección argentina?",
+      "respuestas": [
+        "10",
+        "12",
+        "13",
+        "15"
+      ],
+      "respuesta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el Club más Grande del fútbol argentino?",
+      "respuestas": [
+        "Boca Juniors", 
+        "River Plate",
+        "Independiente", 
+        "Racing Club",
+        "San Lorenzo"
+      ],
+      "respuesta": 1
+    }
+  ]
+}
