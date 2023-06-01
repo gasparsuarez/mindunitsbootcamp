@@ -1,0 +1,39 @@
+Crea un archivo JSON de preguntas y respuestas siguiendo el siguiente formato de archivo pero con distintas temáticas random (solo devuelve el JSON)
+{
+  "questions": [
+    {
+      "question": "¿Cuál de estos no es un lenguaje de programación?",
+      "answers": ["Python", "HTML", "Java", "Javascript"],
+      "correct_answer": 1,
+      "fact": "HTML (HyperText Markup Language) es un lenguaje de marcado"
+    },
+    {
+      "question": "¿Como agrego todos los cambios de archivo en git?",
+      "answers": ["git add .", "git branch", "git pull", "git push"],
+      "correct_answer": 0,
+      "fact": "El comando git add . en Git es utilizado para agregar todos los archivos modificados y nuevos en el directorio de trabajo al área de preparación (también conocida como stage)."
+    },
+    {
+      "question": "¿Qué es SCRUM?",
+      "answers": [
+        "Una herramienta para automatizar procesos",
+        "Un conjunto de reglas y normas para el desarrollo de software",
+        "Una metodología ágil",
+        "Un lenguaje de programación"
+      ],
+      "correct_answer": 3,
+      "fact": "Scrum es una metodología ágil de gestión y desarrollo de proyectos que se utiliza comúnmente en el desarrollo de software, aunque también se puede aplicar a otros tipos de proyectos."
+    },
+    {
+      "question": "¿Qué es un JSON?",
+      "answers": [
+        "Un formato de archivo para almacenar imágenes",
+        "Un lenguaje de programación para desarrollar sitios web",
+        "Un formato de intercambio de datos",
+        "Un protocolo de comunicación en redes de computadoras."
+      ],
+      "correct_answer": 2,
+      "fact": "JSON (JavaScript Object Notation) es un formato de intercambio de datos que se utiliza para almacenar y transmitir información de manera estructurada."
+    }
+  ]
+}
