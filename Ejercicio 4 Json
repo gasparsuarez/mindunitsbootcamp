@@ -1,0 +1,56 @@
+**Ejercicio 4 "Chat GPT"**
+
+{
+  "trivia": [
+    {
+      "pregunta": "¿Cuál es el club de fútbol más ganador de Argentina?",
+      "respuestas": [
+        "River Plate",
+        "Boca Juniors",
+        "Independiente",
+        "Racing Club"
+      ],
+      "respuesta_correcta": 1
+    },
+    {
+      "pregunta": "¿En qué estadio juega su localía Boca Juniors?",
+      "respuestas": [
+        "Estadio Monumental",
+        "Estadio Mario Alberto Kempes",
+        "La Bombonera",
+        "Estadio Libertadores de América"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántas Copas del Mundo ha ganado la selección argentina?",
+      "respuestas": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "respuesta_correcta": 2
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador histórico de la selección argentina?",
+      "respuestas": [
+        "Lionel Messi",
+        "Diego Maradona",
+        "Gabriel Batistuta",
+        "Hernán Crespo"
+      ],
+      "respuesta_correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el clásico más importante del fútbol argentino?",
+      "respuestas": [
+        "Boca Juniors vs. River Plate",
+        "Independiente vs. Racing Club",
+        "San Lorenzo vs. Huracán",
+        "Rosario Central vs. Newell's Old Boys"
+      ],
+      "respuesta_correcta": 0
+    }
+  ]
+}
