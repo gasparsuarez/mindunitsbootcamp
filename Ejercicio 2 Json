@@ -1,0 +1,57 @@
+**Ejercicio 2**
+
+{
+    "Nombre del Grupo":"Mind Units",
+    "descripcion":"the biggest",
+    "Miembros":[
+      {
+            "Nombre": "Esteban",
+            "Apellido": "Martines",
+            "discord": "esteban#5051",
+            "Pais": "Argentina"
+        },
+        {
+            "Nombre": "Jader",
+            "Apellido": "Maradiaraga",
+            "discord": "Jader#0789",
+            "Pais": "Colombia"
+        },
+        {
+            "name": "Gaspar",
+            "last_name": "Suarez",
+            "discord": "gaspi#4272",
+            "country": "Argentina"
+        },
+        {
+            "Nombre": "Paula",
+            "Apellido": "Acosta",
+            "discord": "paulaacosta604#2624",
+            "Pais": "Colombia"
+        },
+        {
+            "Nombre": "Ezequiel",
+            "Apellido": "Berretta",
+            "discord": "ezemat#0450",
+            "Pais": "Argentina"
+        },
+        {
+            "name": "Sharon",
+            "last_name": "Vieira",
+            "discord": "SharonVieira#3663",
+            "country": "Colombia"
+        },
+        {
+            "Nombre": "Lucas Ariel",
+            "Apellido": "Rotta",
+            "discord": "Lucas Ariel Rotta#9223",
+            "Pais": "Argentina"
+        },
+        {
+            "Nombre": "Juliana",
+            "Apellido": "Velandia",
+            "discord": "KatherineV#1169",
+            "Pais": "Colombia"
+        }
+
+    ]
+}
