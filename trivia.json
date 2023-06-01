@@ -1,0 +1,54 @@
+{
+    "trivia": [
+      {
+        "pregunta": "¿Qué es un bucle en programación?",
+        "opciones": [
+          "Un tipo de dato",
+          "Un condicional",
+          "Una estructura de control",
+          "Una función"
+        ],
+        "respuesta_correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes opciones NO es un lenguaje de programación?",
+        "opciones": [
+          "HTML",
+          "Java",
+          "CSS",
+          "MySQL"
+        ],
+        "respuesta_correcta": 4
+      },
+      {
+        "pregunta": "¿Qué es una variable en programación?",
+        "opciones": [
+          "Una función matemática",
+          "Una instrucción condicional",
+          "Un valor que puede almacenar información",
+          "Un tipo de dato"
+        ],
+        "respuesta_correcta": 3
+      },
+      {
+        "pregunta": "¿Cuál es el resultado de la siguiente operación: 5 + 3 * 2?",
+        "opciones": [
+          "16",
+          "11",
+          "13",
+          "9"
+        ],
+        "respuesta_correcta": 3
+      },
+      {
+        "pregunta": "¿Qué significa 'HTML' en programación web?",
+        "opciones": [
+          "HyperText Markup Language",
+          "High Technical Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks and Text Markup Language"
+        ],
+        "respuesta_correcta": 1
+      }
+    ]
+  }
