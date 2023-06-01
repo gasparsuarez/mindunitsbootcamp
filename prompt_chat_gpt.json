@@ -1,3 +1,8 @@
+PROMPT:Genera un JSON  con preguntas  genéricas ,opciones de respuesta y respuesta correcta,
+no expliques el código, no digas nada ej.: Aquí tienes el código JSON con preguntas genéricas,
+opciones de respuesta y respuestas correctas; ni antes ni después solo envía el código
+(que sea fácil de leer y copiar).
+
 {
     "preguntas":[
        {
