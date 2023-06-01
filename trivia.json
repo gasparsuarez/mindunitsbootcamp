@@ -5,7 +5,7 @@
                 "Programación" ,
                 "Maquetación"
                 ],
-        "correct_answer":"Maquetación"
+        "correct_answer":1
     },
     {
         "question":"Qué es una variable booleana?",
@@ -14,7 +14,7 @@
                 "Variable que puede retornar números flotantes",
                 "Variable que almacena caracteres"
                 ],
-        "correct_answer":"Variable que representa verdadero/falso"
+        "correct_answer":1
     },
     {
         "question":"Que es una interpolación de String?",
@@ -23,6 +23,6 @@
                 "separar dos cadenas",
                 "permite expresiones dentro de una cadena"
                 ],
-        "correct_answer":"permite expresiones dentro de una cadena"
+        "correct_answer":3
     }
 ]

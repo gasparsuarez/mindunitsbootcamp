@@ -1,0 +1,34 @@
+{
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Cuál es el lenguaje de programación más popular?",
+        "respuestas": ["Java", "Python", "C++", "JavaScript"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Qué significa HTML?",
+        "respuestas": ["Hypertext Markup Language", "Hyperloop Machine Language", "Home Tool Markup Language", "Hyper Texting and Markup Language"],
+        "respuesta_correcta": 0
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Qué es un bucle 'for'?",
+        "respuestas": ["Una estructura de control que se repite un número fijo de veces", "Un error en el código", "Una función para realizar operaciones matemáticas", "Un tipo de dato"],
+        "respuesta_correcta": 0
+      },
+      {
+        "id": 4,
+        "enunciado": "¿Cuál de los siguientes es un framework de JavaScript?",
+        "respuestas": ["Django", "Ruby on Rails", "Angular", "Laravel"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Cuál es el método utilizado para imprimir mensajes en la consola en JavaScript?",
+        "respuestas": ["console.log()", "print()", "echo()", "log()"],
+        "respuesta_correcta": 0
+      }
+    ]
+  }
