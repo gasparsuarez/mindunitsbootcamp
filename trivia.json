@@ -1,4 +1,28 @@
-{
-    
-
-}
+[
+    {
+        "question":"HTML es un lenguaje de?",
+        "answers":[
+                "Programación" ,
+                "Maquetación"
+                ],
+        "correct_answer":"Maquetación"
+    },
+    {
+        "question":"Qué es una variable booleana?",
+        "answers":[
+                "Variable que representa verdadero/falso" ,
+                "Variable que puede retornar números flotantes",
+                "Variable que almacena caracteres"
+                ],
+        "correct_answer":"Variable que representa verdadero/falso"
+    },
+    {
+        "question":"Que es una interpolación de String?",
+        "answers":[
+                "Unir dos cadenas" ,
+                "separar dos cadenas",
+                "permite expresiones dentro de una cadena"
+                ],
+        "correct_answer":"permite expresiones dentro de una cadena"
+    }
+]

@@ -43,6 +43,18 @@
             "last_name":"Vieira",
             "discord":"SharonVieira#3663",
             "country":"Colombia"
+        },
+        {
+            "name":"Lucas",
+            "last_name":"Ariel Rotta",
+            "discord":"LucasArielRotta#9223",
+            "country":"Argentina"
+        },
+        {
+            "name":"Diana",
+            "last_name":"Carhuamanta",
+            "discord":"Artemisa#5099",
+            "country":"Perú"
         }
     ]
 }
