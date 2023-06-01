@@ -1,0 +1,54 @@
+{
+    "preguntas":[
+       {
+          "enunciado":"¿Cuál es la capital de México?",
+          "opciones":[
+             "Ciudad de México",
+             "Monterrey",
+             "Guadalajara",
+             "Puebla"
+          ],
+          "respuesta_correcta":0
+       },
+       {
+          "enunciado":"¿Cuál es el planeta más cercano al Sol?",
+          "opciones":[
+             "Venus",
+             "Mercurio",
+             "Marte",
+             "Júpiter"
+          ],
+          "respuesta_correcta":1
+       },
+       {
+          "enunciado":"¿Cuál es el océano más grande del mundo?",
+          "opciones":[
+             "Pacífico",
+             "Atlántico",
+             "Índico",
+             "Ártico"
+          ],
+          "respuesta_correcta":0
+       },
+       {
+          "enunciado":"¿Cuál es el autor de la novela 'Cien años de soledad'?",
+          "opciones":[
+             "Gabriel García Márquez",
+             "Jorge Luis Borges",
+             "Pablo Neruda",
+             "Mario Vargas Llosa"
+          ],
+          "respuesta_correcta":0
+       },
+       {
+          "enunciado":"¿Cuál es el metal más abundante en la corteza terrestre?",
+          "opciones":[
+             "Aluminio",
+             "Hierro",
+             "Cobre",
+             "Plomo"
+          ],
+          "respuesta_correcta":0
+       }
+    ]
+ }
