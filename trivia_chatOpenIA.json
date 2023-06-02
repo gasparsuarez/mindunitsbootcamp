@@ -1,0 +1,31 @@
+{
+    "trivia": [
+      {
+        "pregunta": "¿Quién era el dios del trueno en la mitología griega?",
+        "opciones": ["Zeus", "Hades", "Poseidón", "Apolo"],
+        "respuesta_correcta": "Zeus"
+      },
+      {
+        "pregunta": "¿Cuál era el nombre de la diosa de la sabiduría?",
+        "opciones": ["Afrodita", "Atenea", "Artemisa", "Deméter"],
+        "respuesta_correcta": "Atenea"
+      },
+      {
+        "pregunta": "¿Cuál era el nombre del dios del mar?",
+        "opciones": ["Zeus", "Hades", "Poseidón", "Apolo"],
+        "respuesta_correcta": "Poseidón"
+      },
+      {
+        "pregunta": "¿Cuál era el nombre del dios del inframundo?",
+        "opciones": ["Zeus", "Hades", "Poseidón", "Apolo"],
+        "respuesta_correcta": "Hades"
+      },
+      {
+        "pregunta": "¿Cuál era el nombre del dios del sol?",
+        "opciones": ["Zeus", "Hades", "Poseidón", "Apolo"],
+        "respuesta_correcta": "Apolo"
+      }
+    ]
+  }
+
+  
