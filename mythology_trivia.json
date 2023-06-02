@@ -1,0 +1,61 @@
+{
+    "trivia_name": "greek mythology",
+    "questions": [
+        {
+            "question": "¿Qué hijo mortal de un dios murió al ver su reflejo?",
+            "alternatives": {
+                "a": "Edipo",
+                "b": "Narciso",
+                "c": "Teseo",
+                "d": "Cadmo"
+            },
+            "correct_alternative" : "b",
+            "explanation": "Narciso, estaba tan obsesionado con su propia belleza que se quedó mirando su reflejo hasta morir." 
+        },
+        {
+            "question": "¿Quién es la Diosa de cacería?",
+            "alternatives": {
+                "a": "Hera",
+                "b": "Afrodita",
+                "c": "Artemisa",
+                "d": "Demetra"
+            },
+            "correct_alternative" : "c",
+            "explanation": "Artemisa es la diosa de la cacería, de los animales salvajes y de la vegetación, entre otras cosas." 
+        },
+        {
+            "question": "¿Cómo castigaron a Prometeo por darle el fuego a los mortales?",
+            "alternatives": {
+                "a": "Lo obligaron a empujar una roca cuesta arriba",
+                "b": "El sol lo prendía fuego todas las mañanas",
+                "c": "Lo encadenaron bajo una gotera por toda la eternidad",
+                "d": "Lo encadenaron a una roca donde un águila le comía el hígado"
+            },
+            "correct_alternative" : "d",
+            "explanation": "El hígado volvía a salirle durante la noche, causando que la tortura continuara al día siguiente." 
+        },
+        {
+            "question": "¿Con qué dios griego está casada Perséfone?",
+            "alternatives": {
+                "a": "Hades",
+                "b": "Zeus",
+                "c": "Hefesto",
+                "d": "Poseidón"
+            },
+            "correct_alternative" : "a",
+            "explanation": "Perséfone está casada con Hades, y se volvió la reina del inframundo luego de que su esposo la secuestrara." 
+        },
+        {
+            "question": "¿Por qué Dédalo e Ícaro se hicieron unas alas?",
+            "alternatives": {
+                "a": "Para intentar subir a la cima del Olimpo",
+                "b": "Para escapar de un laberinto en Creta",
+                "c": "Para escapar de una prisión en Troya",
+                "d": "Para probarle al rey que Dédalo merecía salvarse de la ejecución"
+            },
+            "correct_alternative" : "b",
+            "explanation": "Dédalo e Ícaro eran prisioneros del Rey Mino en el laberinto que el propio Dédalo diseñó. Según la leyenda, Dédalo hizo las alas para poder escapar de Creta sin que los descubrieran... pero Ícaro voló demasiado cerca del sol y el calor derritió la cera que pegaba sus alas." 
+        }
+    ]
+    
+}
