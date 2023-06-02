@@ -1,0 +1,59 @@
+{
+    "group_name" : "team One",
+    "members" : [
+        {
+            "name": "Gaspar",
+            "las_name" : "Suarez",
+            "discord" : "gaspi#4272",
+            "nationality" : "Argentina"
+        },
+        {
+            "name": "Lucas",
+            "las_name" : "Ariel Rotta",
+            "discord" : "LucasArielRotta#9223",
+            "nationality" : "Argentina"
+        },
+        {
+            "name": "Sharon",
+            "las_name" : "Vieira",
+            "discord" : "SharonVieira#3663",
+            "nationality" : "Colombia"
+        },
+        {
+            "name": "Paula",
+            "las_name" : "Acosta",
+            "discord" : "paulaacosta604#2624",
+            "nationality" : "Colombia"
+        },
+        {
+            "name": "Jader",
+            "las_name" : "Suarez",
+            "discord" : "Jader#0789",
+            "nationality" : "Colombia"
+        },
+        {
+            "name": "Juliana",
+            "las_name" : "Velandia",
+            "discord" : "KatherineV#1169",
+            "nationality" : "Colombia"
+        },
+        {
+            "name":"Esteban",
+            "last_name":"Martinez",
+            "discord":"esteban#5051",
+            "nationality":"Argentina"
+        },
+        {
+            "name":"Ezequiel",
+            "last_name":"Berretta",
+            "discord":"ezemat#0450",
+            "nationality":"Argentina"
+        },
+        {
+            "name":"Diana",
+            "last_name":"Carhuamanta",
+            "discord":"Artemisa#5099",
+            "nationality":"Peruana"
+        }
+    ]
+}
