@@ -1,0 +1,38 @@
+{
+  "name":"Capital de los países de América Latina",
+  "questions": [
+    {
+      "question": "¿Cuál es la capital de Perú?",
+      "options": [
+        "Lima", 
+        "Cusco", 
+        "Arequipa", 
+        "Trujillo"
+        ],
+      "answer":0,
+      "reason":"Proclamada la independencia del Perú en 1821 por el general San Martín. Lima se convirtió en la capital de la flamante República del Perú."
+    },
+    {
+      "question": "¿Cuál es la capital de Uruguay?",
+      "options": [
+        "Uruguay", 
+        "Punta del Este", 
+        "Montevideo", 
+        "Colonia de Sacramento"
+        ],
+      "answer":2,
+      "reason":"Montevideo fue fundada el 24 de diciembre de 1726 por el español Bruno Mauricio de Zabala. Durante el período colonial, la ciudad fue establecida como una fortaleza para proteger la región contra ataques de piratas y potencias extranjeras."
+    },
+    {
+      "question": "¿Cuál es la capital de Chile?",
+      "options": [
+        "Valparaíso", 
+        "Santiago", 
+        "Viña del Mar", 
+        "Puente Alto"
+        ],
+      "answer":1,
+      "reason":"Santiago fue fundada el 12 de febrero de 1541 por el conquistador español Pedro de Valdivia, convirtiéndose en la primera ciudad establecida por los españoles en el territorio que hoy conocemos como Chile. Durante el período colonial, Santiago se convirtió en un importante centro administrativo y comercial.."
+    }
+    ]
+}
