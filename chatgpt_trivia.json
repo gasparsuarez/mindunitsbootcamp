@@ -1,0 +1,25 @@
+Prompt: En base a lo anterior genera JSON puro con preguntas, repuestas y explicación de por que es la respuesta correcta. Es sobre las capitales de América Latina.
+
+{
+  "name": "Capitales de países de América Latina",
+  "questions": [
+    {
+      "question": "¿Cuál es la capital de México?",
+      "options": ["Ciudad de México", "Buenos Aires", "Lima", "Santiago"],
+      "answer": 0,
+      "reason": "La capital de México es Ciudad de México, también conocida como CDMX. Es la ciudad más poblada del país y uno de los centros políticos, económicos y culturales más importantes de América Latina."
+    },
+    {
+      "question": "¿Cuál es la capital de Brasil?",
+      "options": ["Río de Janeiro", "Sao Paulo", "Brasilia", "Buenos Aires"],
+      "answer": 2,
+      "reason": "La capital de Brasil es Brasilia. Fue construida específicamente para ser la capital del país y se inauguró el 21 de abril de 1960. Es conocida por su arquitectura modernista y su diseño urbanístico único."
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "options": ["Buenos Aires", "Santiago", "Montevideo", "Lima"],
+      "answer": 0,
+      "reason": "La capital de Argentina es Buenos Aires. Es la ciudad más grande del país y uno de los principales centros culturales y económicos de América Latina. Es famosa por su arquitectura, sus barrios históricos y su vida nocturna."
+    }
+  ]
+}
