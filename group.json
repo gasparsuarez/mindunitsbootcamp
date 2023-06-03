@@ -55,6 +55,12 @@
             "last_name":"Carhuamanta",
             "discord":"Artemisa#5099",
             "country":"Perú"
-        },   
+        },
+        {
+            "name":"Miguel",
+            "last_name":"Mallqui",
+            "discord":"Miguel Mallqui#9578",
+            "country":"Perú"
+        }
     ]
 }
