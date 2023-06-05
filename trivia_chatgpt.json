@@ -1,0 +1,62 @@
+// Prompt: En base a lo siguiente JSON genera JSON puro con preguntas, repuestas y explicación de por que es la respuesta correcta. Es sobre programacion basica 
+
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es un bucle en programación?",
+        "opciones": [
+          "Un tipo de dato",
+          "Un condicional",
+          "Una estructura de control",
+          "Una función"
+        ],
+        "respuesta_correcta": 2,
+        "explicacion": "Un bucle en programación es una estructura de control que permite repetir un bloque de código varias veces. Generalmente se utiliza cuando se desea ejecutar una tarea de forma repetitiva hasta que se cumpla una condición determinada."
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes opciones NO es un lenguaje de programación?",
+        "opciones": [
+          "HTML",
+          "Java",
+          "CSS",
+          "MySQL"
+        ],
+        "respuesta_correcta": 4,
+        "explicacion": "La opción 'MySQL' no es un lenguaje de programación, sino un sistema de gestión de bases de datos. HTML, Java y CSS son lenguajes de programación utilizados en el desarrollo web para definir la estructura, funcionalidad y estilo de una página."
+      },
+      {
+        "pregunta": "¿Qué es una variable en programación?",
+        "opciones": [
+          "Una función matemática",
+          "Una instrucción condicional",
+          "Un valor que puede almacenar información",
+          "Un tipo de dato"
+        ],
+        "respuesta_correcta": 3,
+        "explicacion": "Una variable en programación es un contenedor que puede almacenar información, como números, texto o valores booleanos. Permite almacenar y manipular datos en la memoria de un programa, y su contenido puede cambiar durante la ejecución del programa."
+      },
+      {
+        "pregunta": "¿Cuál es el resultado de la siguiente operación: 5 + 3 * 2?",
+        "opciones": [
+          "16",
+          "11",
+          "13",
+          "9"
+        ],
+        "respuesta_correcta": 3,
+        "explicacion": "El resultado de la operación 5 + 3 * 2 se calcula siguiendo las reglas de precedencia de operadores. En este caso, la multiplicación tiene mayor precedencia que la suma, por lo que se debe realizar primero: 3 * 2 = 6. Luego, se realiza la suma: 5 + 6 = 11. Por lo tanto, la respuesta correcta es 11."
+      },
+      {
+        "pregunta": "¿Qué significa 'HTML' en programación web?",
+        "opciones": [
+          "HyperText Markup Language",
+          "High Technical Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks and Text Markup Language"
+        ],
+        "respuesta_correcta": 1,
+        "explicacion": "'HTML' significa 'HyperText Markup Language' en programación web. Es un lenguaje de marcado utilizado para estructurar el contenido de una página web, como encabezados, párrafos, enlaces, imágenes, entre otros elementos. Proporciona la estructura básica de una página y se complementa con otros lenguajes como CSS y JavaScript para agregar estilo e interactividad."
+      }
+    ]
+  }
+  
