@@ -1,4 +1,4 @@
-// Prompt: En base a lo siguiente JSON genera JSON puro con preguntas, repuestas y explicación de por que es la respuesta correcta. Es sobre programacion basica 
+// Prompt: En base a la trivia anterior genera un JSON puro con preguntas, repuestas y explicación de por que es la respuesta correcta. Es sobre programacion basica 
 
 {
     "preguntas": [
